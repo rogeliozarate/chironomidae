@@ -1,9 +1,13 @@
-# Sinatra Markdown based blog
+#Chironomidae
+
+## Sinatra Markdown based blog
 
 Based on the final chapter of the book:
 
 > [Sinatra: Up and Running](http://shop.oreilly.com/product/0636920019664.do)
+
 > Ruby for the Web, Simply
+
 > By *Alan Harris, Konstantin Haase*
 
 ## Why the name?
