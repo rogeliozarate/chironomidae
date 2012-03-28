@@ -2,13 +2,13 @@
 
 Based on the final chapter of the book:
 
->[Sinatra: Up and Running](http://shop.oreilly.com/product/0636920019664.do)
->Ruby for the Web, Simply
->By Alan Harris, Konstantin Haase**
+> [Sinatra: Up and Running](http://shop.oreilly.com/product/0636920019664.do)
+> Ruby for the Web, Simply
+> By *Alan Harris, Konstantin Haase*
 
 ## Why the name?
 
-I found a bloodworm, a Chironomidae larvae, at my kitchen sink while I took a rest between chapter one and two of the book.
+I found a bloodworm, a [Chironomidae](http://en.wikipedia.org/wiki/Chironomidae) larvae, at my kitchen sink while I took a rest between chapter one and two of the book.
 Sanitary measures were taken.
 
 
